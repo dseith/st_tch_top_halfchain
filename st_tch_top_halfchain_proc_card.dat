@@ -1,0 +1,6 @@
+import model sm-no_b_mass
+set complex_mass_scheme True
+define p = p b b~
+generate p p > w+ b j $$ w+ w- z a QED=3 QCD=0
+
+output st_tch_top_halfchain
