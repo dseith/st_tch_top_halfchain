@@ -1,0 +1,1742 @@
+#******************************************************************
+#                       Reweight Module                           *
+#******************************************************************
+
+change rwgt_dir rwgt
+
+launch --rwgt_name=SM
+set ctW 0.
+set ctWI 0.
+set cpQ3 0.
+set cQq13 0.
+set cQq83 0.
+
+launch --rwgt_name=ctW_-5p0
+set ctW -5.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-4p75
+set ctW -4.75
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-4p5
+set ctW -4.5
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-4p25
+set ctW -4.25
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-4p0
+set ctW -4.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-3p75
+set ctW -3.75
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-3p5
+set ctW -3.5
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-3p25
+set ctW -3.25
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-3p0
+set ctW -3.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-2p75
+set ctW -2.75
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-2p5
+set ctW -2.5
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-2p25
+set ctW -2.25
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-2p0
+set ctW -2.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-1p75
+set ctW -1.75
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-1p5
+set ctW -1.5
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-1p25
+set ctW -1.25
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-1p0
+set ctW -1.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-0p75
+set ctW -0.75
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-0p5
+set ctW -0.5
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_-0p25
+set ctW -0.25
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_0p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_0p25
+set ctW 0.25
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_0p5
+set ctW 0.5
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_0p75
+set ctW 0.75
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_1p0
+set ctW 1.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_1p25
+set ctW 1.25
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_1p5
+set ctW 1.5
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_1p75
+set ctW 1.75
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_2p0
+set ctW 2.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_2p25
+set ctW 2.25
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_2p5
+set ctW 2.5
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_2p75
+set ctW 2.75
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_3p0
+set ctW 3.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_3p25
+set ctW 3.25
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_3p5
+set ctW 3.5
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_3p75
+set ctW 3.75
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_4p0
+set ctW 4.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_4p25
+set ctW 4.25
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_4p5
+set ctW 4.5
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_4p75
+set ctW 4.75
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctW_5p0
+set ctW 5.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-5p0
+set ctW 0.0
+set ctWI -5.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-4p75
+set ctW 0.0
+set ctWI -4.75
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-4p5
+set ctW 0.0
+set ctWI -4.5
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-4p25
+set ctW 0.0
+set ctWI -4.25
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-4p0
+set ctW 0.0
+set ctWI -4.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-3p75
+set ctW 0.0
+set ctWI -3.75
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-3p5
+set ctW 0.0
+set ctWI -3.5
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-3p25
+set ctW 0.0
+set ctWI -3.25
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-3p0
+set ctW 0.0
+set ctWI -3.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-2p75
+set ctW 0.0
+set ctWI -2.75
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-2p5
+set ctW 0.0
+set ctWI -2.5
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-2p25
+set ctW 0.0
+set ctWI -2.25
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-2p0
+set ctW 0.0
+set ctWI -2.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-1p75
+set ctW 0.0
+set ctWI -1.75
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-1p5
+set ctW 0.0
+set ctWI -1.5
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-1p25
+set ctW 0.0
+set ctWI -1.25
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-1p0
+set ctW 0.0
+set ctWI -1.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-0p75
+set ctW 0.0
+set ctWI -0.75
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-0p5
+set ctW 0.0
+set ctWI -0.5
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_-0p25
+set ctW 0.0
+set ctWI -0.25
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_0p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_0p25
+set ctW 0.0
+set ctWI 0.25
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_0p5
+set ctW 0.0
+set ctWI 0.5
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_0p75
+set ctW 0.0
+set ctWI 0.75
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_1p0
+set ctW 0.0
+set ctWI 1.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_1p25
+set ctW 0.0
+set ctWI 1.25
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_1p5
+set ctW 0.0
+set ctWI 1.5
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_1p75
+set ctW 0.0
+set ctWI 1.75
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_2p0
+set ctW 0.0
+set ctWI 2.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_2p25
+set ctW 0.0
+set ctWI 2.25
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_2p5
+set ctW 0.0
+set ctWI 2.5
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_2p75
+set ctW 0.0
+set ctWI 2.75
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_3p0
+set ctW 0.0
+set ctWI 3.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_3p25
+set ctW 0.0
+set ctWI 3.25
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_3p5
+set ctW 0.0
+set ctWI 3.5
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_3p75
+set ctW 0.0
+set ctWI 3.75
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_4p0
+set ctW 0.0
+set ctWI 4.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_4p25
+set ctW 0.0
+set ctWI 4.25
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_4p5
+set ctW 0.0
+set ctWI 4.5
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_4p75
+set ctW 0.0
+set ctWI 4.75
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=ctWI_5p0
+set ctW 0.0
+set ctWI 5.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-5p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -5.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-4p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -4.75
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-4p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -4.5
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-4p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -4.25
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-4p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -4.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-3p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -3.75
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-3p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -3.5
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-3p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -3.25
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-3p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -3.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-2p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -2.75
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-2p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -2.5
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-2p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -2.25
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-2p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -2.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-1p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -1.75
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-1p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -1.5
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-1p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -1.25
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-1p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -1.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-0p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -0.75
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-0p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -0.5
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_-0p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 -0.25
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_0p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_0p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.25
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_0p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.5
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_0p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.75
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_1p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 1.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_1p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 1.25
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_1p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 1.5
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_1p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 1.75
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_2p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 2.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_2p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 2.25
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_2p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 2.5
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_2p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 2.75
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_3p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 3.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_3p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 3.25
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_3p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 3.5
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_3p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 3.75
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_4p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 4.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_4p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 4.25
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_4p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 4.5
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_4p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 4.75
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cpQ3_5p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 5.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-3p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -3.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-2p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -2.75
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-2p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -2.5
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-2p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -2.25
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-2p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -2.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-1p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -1.75
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-1p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -1.5
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-1p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -1.25
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-1p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -1.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-0p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -0.75
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-0p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -0.5
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_-0p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 -0.25
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_0p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_0p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.25
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_0p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.5
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_0p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.75
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_1p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 1.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_1p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 1.25
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_1p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 1.5
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_1p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 1.75
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_2p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 2.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_2p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 2.25
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_2p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 2.5
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_2p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 2.75
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_3p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 3.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_3p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 3.25
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_3p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 3.5
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_3p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 3.75
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_4p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 4.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_4p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 4.25
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_4p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 4.5
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_4p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 4.75
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_5p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 5.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_5p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 5.25
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_5p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 5.5
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_5p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 5.75
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_6p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 6.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_6p25
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 6.25
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_6p5
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 6.5
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_6p75
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 6.75
+set cQq83 0.0
+
+launch --rwgt_name=cQq13_7p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 7.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq83_-8p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -8.0
+
+launch --rwgt_name=cQq83_-7p6
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -7.6
+
+launch --rwgt_name=cQq83_-7p2
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -7.2
+
+launch --rwgt_name=cQq83_-6p8
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -6.8
+
+launch --rwgt_name=cQq83_-6p4
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -6.4
+
+launch --rwgt_name=cQq83_-6p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -6.0
+
+launch --rwgt_name=cQq83_-5p6
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -5.6
+
+launch --rwgt_name=cQq83_-5p2
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -5.2
+
+launch --rwgt_name=cQq83_-4p8
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -4.8
+
+launch --rwgt_name=cQq83_-4p4
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -4.4
+
+launch --rwgt_name=cQq83_-4p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -4.0
+
+launch --rwgt_name=cQq83_-3p6
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -3.6
+
+launch --rwgt_name=cQq83_-3p2
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -3.2
+
+launch --rwgt_name=cQq83_-2p8
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -2.8
+
+launch --rwgt_name=cQq83_-2p4
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -2.4
+
+launch --rwgt_name=cQq83_-2p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -2.0
+
+launch --rwgt_name=cQq83_-1p6
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -1.6
+
+launch --rwgt_name=cQq83_-1p2
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -1.2
+
+launch --rwgt_name=cQq83_-0p8
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -0.8
+
+launch --rwgt_name=cQq83_-0p4
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 -0.4
+
+launch --rwgt_name=cQq83_0p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.0
+
+launch --rwgt_name=cQq83_0p4
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.4
+
+launch --rwgt_name=cQq83_0p8
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 0.8
+
+launch --rwgt_name=cQq83_1p2
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 1.2
+
+launch --rwgt_name=cQq83_1p6
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 1.6
+
+launch --rwgt_name=cQq83_2p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 2.0
+
+launch --rwgt_name=cQq83_2p4
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 2.4
+
+launch --rwgt_name=cQq83_2p8
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 2.8
+
+launch --rwgt_name=cQq83_3p2
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 3.2
+
+launch --rwgt_name=cQq83_3p6
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 3.6
+
+launch --rwgt_name=cQq83_4p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 4.0
+
+launch --rwgt_name=cQq83_4p4
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 4.4
+
+launch --rwgt_name=cQq83_4p8
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 4.8
+
+launch --rwgt_name=cQq83_5p2
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 5.2
+
+launch --rwgt_name=cQq83_5p6
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 5.6
+
+launch --rwgt_name=cQq83_6p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 6.0
+
+launch --rwgt_name=cQq83_6p4
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 6.4
+
+launch --rwgt_name=cQq83_6p8
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 6.8
+
+launch --rwgt_name=cQq83_7p2
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 7.2
+
+launch --rwgt_name=cQq83_7p6
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 7.6
+
+launch --rwgt_name=cQq83_8p0
+set ctW 0.0
+set ctWI 0.0
+set cpQ3 0.0
+set cQq13 0.0
+set cQq83 8.0
+
+launch --rwgt_name=ctW_-3p37_ctWI_-0p01_cpQ3_4p4_cQq13_6p5_cQq83_-5p76
+set ctW -3.37
+set ctWI -0.01
+set cpQ3 4.4
+set cQq13 6.5
+set cQq83 -5.76
+
+launch --rwgt_name=ctW_0p32_ctWI_1p2_cpQ3_-3p54_cQq13_6p49_cQq83_-4p11
+set ctW 0.32
+set ctWI 1.2
+set cpQ3 -3.54
+set cQq13 6.49
+set cQq83 -4.11
+
+launch --rwgt_name=ctW_-3p36_ctWI_0p06_cpQ3_0p05_cQq13_4p73_cQq83_5p65
+set ctW -3.36
+set ctWI 0.06
+set cpQ3 0.05
+set cQq13 4.73
+set cQq83 5.65
+
+launch --rwgt_name=ctW_-1p73_ctWI_2p08_cpQ3_0p62_cQq13_2p35_cQq83_1p59
+set ctW -1.73
+set ctWI 2.08
+set cpQ3 0.62
+set cQq13 2.35
+set cQq83 1.59
+
+launch --rwgt_name=ctW_-0p54_ctWI_-1p28_cpQ3_4p3_cQq13_4p63_cQq83_2p81
+set ctW -0.54
+set ctWI -1.28
+set cpQ3 4.3
+set cQq13 4.63
+set cQq83 2.81
+
+launch --rwgt_name=ctW_3p86_ctWI_1p04_cpQ3_-4p29_cQq13_-0p72_cQq83_4p85
+set ctW 3.86
+set ctWI 1.04
+set cpQ3 -4.29
+set cQq13 -0.72
+set cQq83 4.85
+
+launch --rwgt_name=ctW_-1p54_ctWI_4p4_cpQ3_1p89_cQq13_0p8_cQq83_-0p12
+set ctW -1.54
+set ctWI 4.4
+set cpQ3 1.89
+set cQq13 0.8
+set cQq83 -0.12
+
+launch --rwgt_name=ctW_-4p48_ctWI_-0p52_cpQ3_-4p2_cQq13_-0p07_cQq83_6p87
+set ctW -4.48
+set ctWI -0.52
+set cpQ3 -4.2
+set cQq13 -0.07
+set cQq83 6.87
+
+launch --rwgt_name=ctW_-3p52_ctWI_1p77_cpQ3_1p51_cQq13_3p93_cQq83_4p71
+set ctW -3.52
+set ctWI 1.77
+set cpQ3 1.51
+set cQq13 3.93
+set cQq83 4.71
+
+launch --rwgt_name=ctW_3p64_ctWI_-1p43_cpQ3_-1p29_cQq13_-1p26_cQq83_2p23
+set ctW 3.64
+set ctWI -1.43
+set cpQ3 -1.29
+set cQq13 -1.26
+set cQq83 2.23
+
+launch --rwgt_name=ctW_-2p88_ctWI_-3p04_cpQ3_4p9_cQq13_3p2_cQq83_3p69
+set ctW -2.88
+set ctWI -3.04
+set cpQ3 4.9
+set cQq13 3.2
+set cQq83 3.69
+
+launch --rwgt_name=ctW_0p02_ctWI_-3p67_cpQ3_4p1_cQq13_3p51_cQq83_-7p21
+set ctW 0.02
+set ctWI -3.67
+set cpQ3 4.1
+set cQq13 3.51
+set cQq83 -7.21
+
+launch --rwgt_name=ctW_4p14_ctWI_-0p32_cpQ3_0p98_cQq13_0p72_cQq83_-1p65
+set ctW 4.14
+set ctWI -0.32
+set cpQ3 0.98
+set cQq13 0.72
+set cQq83 -1.65
+
+launch --rwgt_name=ctW_2p78_ctWI_-2p66_cpQ3_-4p91_cQq13_0p13_cQq83_7p77
+set ctW 2.78
+set ctWI -2.66
+set cpQ3 -4.91
+set cQq13 0.13
+set cQq83 7.77
+
+launch --rwgt_name=ctW_-3p8_ctWI_1p0_cpQ3_3p65_cQq13_2p34_cQq83_1p5
+set ctW -3.8
+set ctWI 1.0
+set cpQ3 3.65
+set cQq13 2.34
+set cQq83 1.5
+
+launch --rwgt_name=ctW_0p37_ctWI_-1p78_cpQ3_-1p37_cQq13_6p27_cQq83_3p39
+set ctW 0.37
+set ctWI -1.78
+set cpQ3 -1.37
+set cQq13 6.27
+set cQq83 3.39
+
+launch --rwgt_name=ctW_1p43_ctWI_-0p43_cpQ3_4p11_cQq13_5p77_cQq83_7p47
+set ctW 1.43
+set ctWI -0.43
+set cpQ3 4.11
+set cQq13 5.77
+set cQq83 7.47
+
+launch --rwgt_name=ctW_0p44_ctWI_-0p91_cpQ3_-3p08_cQq13_-0p27_cQq83_5p88
+set ctW 0.44
+set ctWI -0.91
+set cpQ3 -3.08
+set cQq13 -0.27
+set cQq83 5.88
+
+launch --rwgt_name=ctW_-3p26_ctWI_4p46_cpQ3_0p86_cQq13_5p47_cQq83_0p48
+set ctW -3.26
+set ctWI 4.46
+set cpQ3 0.86
+set cQq13 5.47
+set cQq83 0.48
+
+launch --rwgt_name=ctW_2p55_ctWI_0p87_cpQ3_3p28_cQq13_2p14_cQq83_3p59
+set ctW 2.55
+set ctWI 0.87
+set cpQ3 3.28
+set cQq13 2.14
+set cQq83 3.59
+
+launch --rwgt_name=ctW_3p04_ctWI_-1p27_cpQ3_-3p97_cQq13_3p75_cQq83_5p6
+set ctW 3.04
+set ctWI -1.27
+set cpQ3 -3.97
+set cQq13 3.75
+set cQq83 5.6
+
+launch --rwgt_name=ctW_3p34_ctWI_-3p73_cpQ3_2p84_cQq13_1p88_cQq83_0p74
+set ctW 3.34
+set ctWI -3.73
+set cpQ3 2.84
+set cQq13 1.88
+set cQq83 0.74
+
+launch --rwgt_name=ctW_-3p68_ctWI_2p7_cpQ3_-2p61_cQq13_3p99_cQq83_-2p64
+set ctW -3.68
+set ctWI 2.7
+set cpQ3 -2.61
+set cQq13 3.99
+set cQq83 -2.64
+
+launch --rwgt_name=ctW_4p57_ctWI_2p12_cpQ3_-1p45_cQq13_2p48_cQq83_-4p99
+set ctW 4.57
+set ctWI 2.12
+set cpQ3 -1.45
+set cQq13 2.48
+set cQq83 -4.99
+
+launch --rwgt_name=ctW_-0p27_ctWI_4p31_cpQ3_4p29_cQq13_0p2_cQq83_-0p93
+set ctW -0.27
+set ctWI 4.31
+set cpQ3 4.29
+set cQq13 0.2
+set cQq83 -0.93
+
+launch --rwgt_name=ctW_0p25_ctWI_0p39_cpQ3_4p9_cQq13_-2p14_cQq83_-4p84
+set ctW 0.25
+set ctWI 0.39
+set cpQ3 4.9
+set cQq13 -2.14
+set cQq83 -4.84
+
+launch --rwgt_name=ctW_1p08_ctWI_-1p64_cpQ3_-1p22_cQq13_3p95_cQq83_-4p81
+set ctW 1.08
+set ctWI -1.64
+set cpQ3 -1.22
+set cQq13 3.95
+set cQq83 -4.81
+
+launch --rwgt_name=ctW_-4p71_ctWI_4p71_cpQ3_-1p84_cQq13_-2p0_cQq83_-7p11
+set ctW -4.71
+set ctWI 4.71
+set cpQ3 -1.84
+set cQq13 -2.0
+set cQq83 -7.11
+
+launch --rwgt_name=ctW_1p8_ctWI_-0p76_cpQ3_-1p6_cQq13_6p8_cQq83_6p87
+set ctW 1.8
+set ctWI -0.76
+set cpQ3 -1.6
+set cQq13 6.8
+set cQq83 6.87
+
+launch --rwgt_name=ctW_2p15_ctWI_4p03_cpQ3_-3p34_cQq13_6p72_cQq83_-7p86
+set ctW 2.15
+set ctWI 4.03
+set cpQ3 -3.34
+set cQq13 6.72
+set cQq83 -7.86
+
+launch --rwgt_name=ctW_0p97_ctWI_4p21_cpQ3_4p1_cQq13_4p04_cQq83_6p82
+set ctW 0.97
+set ctWI 4.21
+set cpQ3 4.1
+set cQq13 4.04
+set cQq83 6.82
+
+launch --rwgt_name=ctW_1p09_ctWI_-3p44_cpQ3_4p21_cQq13_-1p06_cQq83_-0p75
+set ctW 1.09
+set ctWI -3.44
+set cpQ3 4.21
+set cQq13 -1.06
+set cQq83 -0.75
+
+launch --rwgt_name=ctW_-0p55_ctWI_0p02_cpQ3_-1p64_cQq13_-0p31_cQq83_6p22
+set ctW -0.55
+set ctWI 0.02
+set cpQ3 -1.64
+set cQq13 -0.31
+set cQq83 6.22
+
+launch --rwgt_name=ctW_-1p08_ctWI_1p86_cpQ3_-0p06_cQq13_-0p52_cQq83_-3p42
+set ctW -1.08
+set ctWI 1.86
+set cpQ3 -0.06
+set cQq13 -0.52
+set cQq83 -3.42
+
+launch --rwgt_name=ctW_4p7_ctWI_4p04_cpQ3_-3p42_cQq13_-0p67_cQq83_7p34
+set ctW 4.7
+set ctWI 4.04
+set cpQ3 -3.42
+set cQq13 -0.67
+set cQq83 7.34
+
+launch --rwgt_name=ctW_4p21_ctWI_-1p46_cpQ3_0p44_cQq13_1p3_cQq83_-0p89
+set ctW 4.21
+set ctWI -1.46
+set cpQ3 0.44
+set cQq13 1.3
+set cQq83 -0.89
+
+launch --rwgt_name=ctW_0p5_ctWI_2p8_cpQ3_2p18_cQq13_4p17_cQq83_-6p87
+set ctW 0.5
+set ctWI 2.8
+set cpQ3 2.18
+set cQq13 4.17
+set cQq83 -6.87
+
+launch --rwgt_name=ctW_-2p56_ctWI_1p46_cpQ3_2p14_cQq13_1p85_cQq83_4p47
+set ctW -2.56
+set ctWI 1.46
+set cpQ3 2.14
+set cQq13 1.85
+set cQq83 4.47
+
+launch --rwgt_name=ctW_4p57_ctWI_1p92_cpQ3_3p32_cQq13_0p27_cQq83_5p08
+set ctW 4.57
+set ctWI 1.92
+set cpQ3 3.32
+set cQq13 0.27
+set cQq83 5.08
+
+launch --rwgt_name=ctW_0p18_ctWI_3p06_cpQ3_1p82_cQq13_0p03_cQq83_4p32
+set ctW 0.18
+set ctWI 3.06
+set cpQ3 1.82
+set cQq13 0.03
+set cQq83 4.32
+
+launch --rwgt_name=ctW_3p0_ctWI_0p01_cpQ3_-3p57_cQq13_0p75_cQq83_-5p17
+set ctW 3.0
+set ctWI 0.01
+set cpQ3 -3.57
+set cQq13 0.75
+set cQq83 -5.17
+
+launch --rwgt_name=ctW_-3p63_ctWI_-1p99_cpQ3_-0p12_cQq13_5p01_cQq83_1p62
+set ctW -3.63
+set ctWI -1.99
+set cpQ3 -0.12
+set cQq13 5.01
+set cQq83 1.62
+
